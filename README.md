@@ -2,6 +2,8 @@
 
 MBA candidate at Cornell Johnson (Class of 2028) and Roy H. Park Leadership Fellow. Former technology consultant who now builds products with AI tools: I scope the problem, design the experience, and ship.
 
+🎯 **Open to:** product management roles, leadership development programs, and other roles where I can turn data and AI into products people use.
+
 - 🐾 **[Knight](https://github.com/RyankHartman/KnightBot)**: an AI chatbot (my Shih Tzu, as a robot) that answers questions about my background. [Try it](https://knightbot-pi.vercel.app)
 - 🌊 **[SONAR](https://github.com/RyankHartman/sonar)**: a ripple synth you play by tapping the screen. [Play it](https://ryankhartman.github.io/sonar)
 
