@@ -8,6 +8,7 @@ MBA candidate at Cornell Johnson (Class of 2028) and Roy H. Park Leadership Fell
 - 🐾 **[Knight](https://github.com/RyankHartman/KnightBot)**: an AI chatbot (my Shih Tzu, as a robot) that answers questions about my background. [Try it](https://knightbot-pi.vercel.app)
   - 📏 **[Knight Evals](https://github.com/RyankHartman/knight-evals)**: the 63-question test suite I use to measure Knight's accuracy, scope and privacy, and the fixes it led to.
 - 🧰 **[PM Toolkit](https://github.com/RyankHartman/pm-toolkit)**: the templates I use to ship (PRD, decision log, metrics tree, AI eval plan, launch checklist, experiment brief), each with a real example from Knight.
+- 🏔️ **[National Park Planner](https://github.com/RyankHartman/national-park-planner)**: crowd calendars for all 63 national parks from 47 years of official NPS visitor data, so you can find the quiet season anywhere. [Plan a trip](https://ryankhartman.github.io/national-park-planner/)
 - 🌊 **[SONAR](https://github.com/RyankHartman/sonar)**: a ripple synth you play by tapping the screen. [Play it](https://ryankhartman.github.io/sonar)
 
 ### Meet Knight
